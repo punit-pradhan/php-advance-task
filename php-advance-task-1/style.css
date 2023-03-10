@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    font-family: 'ss-semibold';
+    list-style: none;
+    position: relative;
+    padding-left: 24px;
+    margin: 0 0 20px;
+    line-height: 1.4;
+}
+ul li a {
+    text-decoration: none;
+    color: #4b5561;
+}
+.flex{
+display: flex;
+margin: 0 auto;
+justify-content: space-around;
+max-width: 1200px;
+}
+.service-title{
+    font-size: 3rem;
+    line-height: 1.4;
+    text-transform: uppercase;
+    font-family: "ss-bold";
+    color: #ff7900;
+    display: inline-block;
+}
+.service-secondary-title{
+    font-size: 3rem;
+    line-height: 1.4;
+    text-transform: uppercase;
+    font-family: "ss-bold";
+    display: inline-block;
+    color: #4b5561;
+}
