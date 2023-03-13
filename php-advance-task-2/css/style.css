@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+}
+.container
+{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+}
+.card
+{
+    width: 25%;
+    height: 250px;
+    border: 1px solid black;
+    padding: 1rem 0rem 0rem 0rem;
+}
+
+.form 
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    height: 60%;
+    justify-content: space-around;
+}
+.button
+{
+    height: 2rem;
+    width: 4rem;
+}
+.mail
+{
+    height: 35px;
+    width: 90%;
+}
